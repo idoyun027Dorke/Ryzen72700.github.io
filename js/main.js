@@ -13,7 +13,7 @@ $(document).ready(function(){
 	$(".fitscreen").css("height", fitscreen);
 
      
-     // -------   Active Mobile Menu-----//
+     // -------   Active Mobile Menu-모바일 메-----//
 
     $(".menu-bar").on('click', function(e){
         e.preventDefault();
