@@ -1,5 +1,5 @@
 # INCLUDE x PPAG Systems
-https://ryzen72700.github.io/ [ OFFICAL WEBSITE ]
+(https://ryzen72700.github.io/)[OFFICAL]
 
 # INCLUDE x PPAG Systems [ MEMBERS ]
 1. [대표] KR WhiteClient <- Dev
@@ -9,7 +9,7 @@ https://ryzen72700.github.io/ [ OFFICAL WEBSITE ]
 5. HayangGames <- Dev
 6. Channie <- Dev
 7. 도르크 <- Bot Support
-8. Rayder <- Idea
+8. Rayder <- Idea -> **Bot Support**
 9. KwonMinSuk <- Idea
 
 # [20190512 기준] New Members..
