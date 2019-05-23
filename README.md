@@ -1,5 +1,5 @@
 # INCLUDE x PPAG Systems
-(https://ryzen72700.github.io/)[OFFICAL]
+[OFFICAL WEBSITE :(](https://ryzen72700.github.io/)
 
 # INCLUDE x PPAG Systems [ MEMBERS ]
 1. [대표] KR WhiteClient <- Dev
