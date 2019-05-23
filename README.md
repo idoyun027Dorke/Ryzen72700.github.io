@@ -15,3 +15,5 @@
 # [20190512 기준] New Members..
 1. HayangGames
 2. **모집중**
+
+![unknown](https://cdn.discordapp.com/attachments/558296123794653208/581066532797415424/unknown.png) **<-- ㅇㅈ? Y / N?**
