@@ -17,3 +17,5 @@
 2. **모집중**
 
 ![unknown](https://cdn.discordapp.com/attachments/558296123794653208/581066532797415424/unknown.png) **<-- ㅇㅈ? Y / N?**
+![unknown](https://cdn.discordapp.com/attachments/551273186306686976/581072680426536961/unknown.png)
+He is Bixby, and Best Troller :D
